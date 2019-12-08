@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c5f6f60-71e5-4b39-a0fd-b646845fc552" name="Default Changelist" comment="" />
+    <list default="true" id="1c5f6f60-71e5-4b39-a0fd-b646845fc552" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Acne.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blobdet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fill.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pusheen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/removeblob.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tresholdi.py" beforeDir="false" afterPath="$PROJECT_DIR$/AcneRemoval.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UcZ7nbMTmHRXJsOUzzt12Q79b4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -24,8 +39,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tresholdi">
-    <configuration name="blobdet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.AcneRemoval">
+    <configuration name="AcneRemoval" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImgProcAcneRemoval" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,7 +52,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blobdet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AcneRemoval.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tresholdi.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\dyure\Documents\GitHub\ImgProcAcneRemoval\AcneRemoval.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.AcneRemoval" />
         <item itemvalue="Python.tresholdi" />
-        <item itemvalue="Python.thresholding" />
-        <item itemvalue="Python.blobdet" />
-        <item itemvalue="Python.fill" />
         <item itemvalue="Python.removeblob" />
+        <item itemvalue="Python.fill" />
+        <item itemvalue="Python.thresholding" />
       </list>
     </recent_temporary>
   </component>
@@ -153,15 +168,17 @@
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../ImgProcSegmentations/thresholding.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
